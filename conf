@@ -1,16 +1,16 @@
-# profile-title: DRFCZ 22.04.26 02:50
+# profile-title: V21RJ 22.04.26 03:01
 # profile-update-interval: 5
-# Date/Time: 2026-04-22 / 02:50 (Moscow)
+# Date/Time: 2026-04-22 / 03:01 (Moscow)
 # Количество: 10
 # ⚡ Топ серверов по скорости (отобраны из 10 рабочих)
 
-vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 1. 🚀 2.0 MB/s | 📍 304ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 2. 🚀 2.0 MB/s | 📍 341ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 3. 🚀 2.0 MB/s | 📍 504ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 4. 🚀 2.0 MB/s | 📍 296ms
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D  # 5. 🚀 2.0 MB/s | 📍 765ms
-vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.153:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D  # 6. 🚀 1.9 MB/s | 📍 292ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 7. 🚀 1.9 MB/s | 📍 314ms
-vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 8. 🚀 1.9 MB/s | 📍 1056ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-russia-3.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 9. 🚀 1.9 MB/s | 📍 311ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.249.131.172:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  # 10. 🚀 1.9 MB/s | 📍 284ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 1. 🚀 2.0 MB/s | 📍 347ms
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D  = 2. 🚀 2.0 MB/s | 📍 291ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 3. 🚀 2.0 MB/s | 📍 273ms
+vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 4. 🚀 2.0 MB/s | 📍 320ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 5. 🚀 2.0 MB/s | 📍 4296ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D  = 6. 🚀 1.9 MB/s | 📍 305ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?type=tcp&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 7. 🚀 1.9 MB/s | 📍 288ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 8. 🚀 1.9 MB/s | 📍 490ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 9. 🚀 1.8 MB/s | 📍 452ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D  = 10. 🚀 1.8 MB/s | 📍 297ms
