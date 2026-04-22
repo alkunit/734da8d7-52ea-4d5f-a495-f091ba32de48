@@ -1,16 +1,71 @@
-# profile-title: V21RJ 22.04.26 03:01
+# profile-title: WZ1JC 22.04.26 03:05
 # profile-update-interval: 5
-# Date/Time: 2026-04-22 / 03:01 (Moscow)
-# Количество: 10
-# ⚡ Топ серверов по скорости (отобраны из 10 рабочих)
+# Date/Time: 2026-04-22 / 03:05 (Moscow)
+# Количество: 65
+# ⚡ Топ-65 серверов по скорости (скорость и пинг в названии профиля)
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 1. 🚀 2.0 MB/s | 📍 347ms
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D  = 2. 🚀 2.0 MB/s | 📍 291ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 3. 🚀 2.0 MB/s | 📍 273ms
-vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 4. 🚀 2.0 MB/s | 📍 320ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 5. 🚀 2.0 MB/s | 📍 4296ms
-vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D  = 6. 🚀 1.9 MB/s | 📍 305ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?type=tcp&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 7. 🚀 1.9 MB/s | 📍 288ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 8. 🚀 1.9 MB/s | 📍 490ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D  = 9. 🚀 1.8 MB/s | 📍 452ms
-vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D  = 10. 🚀 1.8 MB/s | 📍 297ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%202.0MB/s%20%7C%204288ms
+vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%9A%80%202.0MB/s%20%7C%203940ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?type=tcp&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.9MB/s%20%7C%20280ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.9MB/s%20%7C%20256ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.9MB/s%20%7C%204302ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.8MB/s%20%7C%20418ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.8MB/s%20%7C%20309ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-russia-3.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.8MB/s%20%7C%20320ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.8MB/s%20%7C%20288ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.155:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.8MB/s%20%7C%20284ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.42:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%9A%80%201.8MB/s%20%7C%20274ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-3.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-3.firstvideocdn.ru#%F0%9F%9A%80%201.7MB/s%20%7C%20291ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.7MB/s%20%7C%20293ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.7MB/s%20%7C%20312ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.150:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.7MB/s%20%7C%20299ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.6MB/s%20%7C%20245ms
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.148:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.5MB/s%20%7C%20337ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%F0%9F%9A%80%201.5MB/s%20%7C%204310ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.5MB/s%20%7C%204296ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%9A%80%201.4MB/s%20%7C%20353ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@45.92.177.214:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.3MB/s%20%7C%20486ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.3MB/s%20%7C%20275ms
+vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@138.124.100.79:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eston2.o4ka-internet.com&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#%F0%9F%9A%80%201.3MB/s%20%7C%20365ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%9A%80%201.3MB/s%20%7C%20305ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%F0%9F%9A%80%201.3MB/s%20%7C%20327ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.3MB/s%20%7C%20321ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%9A%80%201.2MB/s%20%7C%20321ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@212.41.30.206:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.2MB/s%20%7C%20464ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@45.92.177.214:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.2MB/s%20%7C%20350ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.2MB/s%20%7C%20392ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%9A%80%201.2MB/s%20%7C%20383ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@45.92.177.214:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.1MB/s%20%7C%20334ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@212.41.30.206:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.1MB/s%20%7C%20316ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.83:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%9A%80%201.1MB/s%20%7C%20351ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%9A%80%201.1MB/s%20%7C%20340ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@212.41.30.206:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.1MB/s%20%7C%20320ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%F0%9F%9A%80%201.1MB/s%20%7C%20333ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%9A%80%201.1MB/s%20%7C%20340ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@45.92.177.214:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.1MB/s%20%7C%20318ms
+vless://75807638-6f19-0320-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.0MB/s%20%7C%20451ms
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.192:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%201.0MB/s%20%7C%20412ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%9A%80%201010KB/s%20%7C%20244ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%9A%80%20966KB/s%20%7C%20330ms
+vless://75807638-6f19-0320-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20949KB/s%20%7C%20480ms
+vless://5ffb68b8-3e96-430b-91c0-52a384e85d5d@85.155.98.195:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#%F0%9F%9A%80%20934KB/s%20%7C%20366ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20920KB/s%20%7C%20397ms
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%9A%80%20919KB/s%20%7C%20334ms
+vless://5ffb68b8-3e96-430b-91c0-52a384e85d5d@85.155.98.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#%F0%9F%9A%80%20914KB/s%20%7C%20359ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.152:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20895KB/s%20%7C%20393ms
+vless://5ffb68b8-3e96-430b-91c0-52a384e85d5d@85.155.98.188:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#%F0%9F%9A%80%20889KB/s%20%7C%20362ms
+vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@185.221.199.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=1Jje6R1ebZt89tdljyfPJzVdWr_DnLwTkh8TTCsp10I&sid=f516ec3a856e1999#%F0%9F%9A%80%20885KB/s%20%7C%20387ms
+vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@wai.kaguya.sbs:443?security=reality&sni=apple.com&fp=chrome&pbk=1Jje6R1ebZt89tdljyfPJzVdWr_DnLwTkh8TTCsp10I&sid=f516ec3a856e1999&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%9A%80%20848KB/s%20%7C%20407ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20846KB/s%20%7C%20392ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.150:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20813KB/s%20%7C%20473ms
+trojan://1234567890@159.195.39.241:2053?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%9A%80%20745KB/s%20%7C%20582ms
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#%F0%9F%9A%80%20738KB/s%20%7C%20542ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.155:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20733KB/s%20%7C%20412ms
+vless://7758eb79-00c3-41da-8bc6-57bb50383ff0@51.250.29.118:5555?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%9A%80%20581KB/s%20%7C%20700ms
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.83:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%9A%80%20370KB/s%20%7C%20324ms
+trojan://1234567890@159.195.79.8:8443?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%9A%80%20358KB/s%20%7C%20482ms
+vless://75807638-6f19-0190-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#%F0%9F%9A%80%20201KB/s%20%7C%201259ms
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%9A%80%20168KB/s%20%7C%20533ms
+vless://e104275f-0a20-4e54-af18-820b8f6887ff@5.188.140.245:993?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&security=reality&sid=ad7dab462a323a&sni=ads.x5.ru&type=tcp#%F0%9F%9A%80%20159KB/s%20%7C%202219ms
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%9A%80%20157KB/s%20%7C%20511ms
+vless://e104275f-0a20-4e54-af18-820b8f6887ff@5.188.140.245:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%9A%80%20137KB/s%20%7C%202269ms
