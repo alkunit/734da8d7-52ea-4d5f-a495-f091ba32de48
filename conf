@@ -1,6 +1,6 @@
-# profile-title: 82QBPL - 22/11-04:47
+# profile-title: 2AT9OE - 22/11-05:04
 # profile-update-interval: 3
-# Date/Time: 22/11-04:47 (Moscow)
+# Date/Time: 22/11-05:04 (Moscow)
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/alkunit/734da8d7-52ea-4d5f-a495-f091ba32de48
 
@@ -88,7 +88,6 @@ vless://7955bf18-35c4-412d-aabd-c0b36c793063@pssdwynorv.newwl.pro:443?path=%2Fse
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@pssdwynorv.newwl.pro:443?path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pssdwynorv.newwl.pro&type=ws&allowInsecure=0&sni=pssdwynorv.newwl.pro&fp=safari#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B%2ACIDR%5D%20CDN
 vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@77.232.40.206:443?encryption=none&flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch02.tunnely.space&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
 vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@77.232.40.206:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ch02.tunnely.space&sid=2e40144ddc07e8e1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
-vless://3e1798b2-8b39-49e8-9f5f-f3235a16bd66@213.178.155.234:8443?security=tls&sni=portal-edge.tcpshield.fun&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fapi%2Fv4%2Fmedia%2Fsession#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.114.103:443?security=tls&sni=nl-next.mediastvor.cc&alpn=h2&type=grpc&serviceName=3e99d50d5740985d&mode=gun&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.114.103:443?security=tls&sni=nl-next.mediastvor.cc&alpn=h2&type=grpc&serviceName=3e99d50d5740985d&mode=gun&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://e9958027-03be-4eb5-bcec-70415b2e4844@66.90.91.122:443?&security=tls&fp=firefox&alpn=h2&sni=6b014610-e9958027.ferrin.uk&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20Beeline
@@ -154,3 +153,4 @@ vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?security=realit
 vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?security=reality&type=tcp&sni=gw-721bd5.dobry.monster&host=gw-721bd5.dobry.monster&flow=xtls-rprx-vision&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&sid=0912cc7f28aa26ba&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@185.137.235.254:443?security=tls&sni=joeypg.ezbiz.dynv6.net&fp=firefox&type=ws&host=joeypg.ezbiz.dynv6.net&path=%2F&ed=2048#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://1c0250ec-2dbc-40be-bd18-90b5e812ceaa@95.188.72.67:443?encryption=none&security=tls&sni=pg.fm6dw.dpdns.org&type=ws&path=%2F%3Fed%3D2048&host=pg.fm6dw.dpdns.org&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
